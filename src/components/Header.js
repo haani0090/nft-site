@@ -24,7 +24,7 @@ const Header = () => {
             <div className='themeSwitch'>
                 <img src={themeSwitchIcon}/>
             </div>
-            <div className='logiButton'>Get In</div>
+            <div className='loginButton'>Get In</div>
 
         </div>
         </div>

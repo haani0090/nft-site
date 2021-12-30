@@ -57,7 +57,7 @@
 .themeSwitch >img{
     height: 25px;
 }
-.logiButton{
+.loginButton{
     background: linear-gradient(to right,pink,cyan);
     padding: 15px 40px;
     border-radius: 50px;
